@@ -8,6 +8,15 @@ Data are becoming surrogates of our existence.  My idea for this art/data challe
 
 NASA OMI/Aura Air Quality Satellite Data https://disc.gsfc.nasa.gov/datasets
 
+    OMAEROG
+    https://disc.gsfc.nasa.gov/datasets/OMAEROG_003/summary?keywords=AIR%20QUALITY
+    
+    OMSO2e
+    https://disc.gsfc.nasa.gov/datasets/OMSO2e_003/summary?keywords=ColumnAmountSO2_PBL
+    
+    OMANO2
+    https://disc.gsfc.nasa.gov/datasets/OMNO2G_003/summary?keywords=ColumnAmountNO2
+
 
 
 
