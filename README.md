@@ -2,7 +2,6 @@
 
 ### Project
 
-Data are becoming surrogates of our existence, therfore my idea for this challenge is to render
-Earth/Human transformations during the pandemic with a video-sound installation using satellite data
+Data are becoming surrogates of our existence, therefore  my idea for this challenge is to make a video-sound installation rendering Earth/Human transformations during the pandemic  using satellite data.
 
 
