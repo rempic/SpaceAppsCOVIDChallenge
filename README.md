@@ -1,4 +1,4 @@
-# Data Traces Team | Space Apps COVID-19 Challenge
+# Data Traces Project | Space Apps COVID-19 Challenge
 
 ### Project
 
