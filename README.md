@@ -1,22 +1,19 @@
-# Data Traces Team | Space Apps COVID-19 Challenge
+# NASA SpaceApps COVID-19 Challenge 
 
-### Project
+### Data Traces Project | Remi Picó
 
-Data are becoming surrogates of our existence. My idea for Space Apps COVID-19 Challenge  challenge is to render
-Earth/Human transformations during the pandemic with a video-sound installation using satellite data
-
-### Broad Art Concept
-
-As a Society we have learned to belive mainly what we see. The visible brings many challenges. The pandemic and pollution 
-are two invisible killer that we a striving to fight. Art is a mean to show in many forms the invisible to everybody. 
-The Data Traces video-sound installion can be seen as a mean for the revelation and cominucation to everybody of the invisible.
-
+As a society we have learned to believe mainly in what we see.  Art has the power to show in many unconventional forms the invisible to everybody. The Data Traces Project is a mean for the revelation and communication of the invisible in a poetic form. The pandemic and pollution are two invisible killers which we a striving to fight. In the proposed video-art I render satellite N02 pollution level above Milan's area acquired from NASA OMI/Aura NO2 satellite before and during the pandemic: from 01.01 to 05.30/2020. In the video the density of the black clouds and the speed of the record in background are positively correlated with the level of N02. The song is the traditional city anthem of Milan.
 
 ### Video and Presentation
 
 
 https://remipico.com/wp2020/spaceappcovidchallenge_video/
 
+### Data Challenge
+
+https://covid19.spaceappschallenge.org/
+
+https://covid19.spaceappschallenge.org/challenges/covid-challenges/art-it-all/teams/data-traces/project
 
 ### Dataset schema
 
